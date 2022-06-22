@@ -1,64 +1,14 @@
-# Project Title
+# Visforce data engineering
 
 ## Summary
 
-Provide a brief description of the project - 150 words.
+Scripts to prepare model output code for upload into the Visforce dashboard.
 
 ## Highly Qualified Personnel
 
-- Name, Institution, email, ORCID 0000-0000-0000-0000
-
-## Principle Investigators
-
-- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
-
-## Primary Contact  
-
-- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
-
-## Producer  
-
-- Jason Venkiteswaran, Wilfrid Laurier University, jvenkiteswaran@wlu.ca, ORCID 0000-0002-6574-7071
-
-## Data sources
-
-- Provide links to any data used from external providers and/or submodules and their associated management source (e.g. IISD-ELA, OMOECC).
-
-## Funding sources
-
-- List your funding sources, grant names, and grant numbers as applicable.
-
-## Keywords
-
-List keywords separated by commas
-
-## Geographic Coverage
-
-- Geo Bounding Box: West Long
-- Geo Bounding Box: East Long
-- Geo Bounding Box: North Lat
-- Geo Bounding Box: South Lat
-
-## Temporal Coverage
-
-- Start: YYYY-MM-DD
-- End: YYYY-MM-DD
-
-## Additional information and support
-
-- Sensitive Data Flag - Human Participants: YES or NO
-- Sensitive Data Flag - Indigenous Partnerships: YES or NO
-- Sensitive Data Flag - Government Partnerships: YES or NO
-- Sensitive Data Flag - Industry Partnerships: YES or NO
-- Access Restrictions
-
-## Software  
-
-The software (and version) used to create the dataset.  
+- Lana Vuleta, GIWS, lana.j.vuleta@gmail.com
 
 ## Repo content information
-
-Use the space below to summarize the structure of the repository with a decription of each folder, as applicable.
 
 ### data/raw_data
 
